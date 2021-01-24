@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.04e16b69.chunk.css",
+    "main.js": "/static/js/main.a4322a06.chunk.js",
+    "main.js.map": "/static/js/main.a4322a06.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ab85eab3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ab85eab3.js.map",
+    "static/js/2.7599c84a.chunk.js": "/static/js/2.7599c84a.chunk.js",
+    "static/js/2.7599c84a.chunk.js.map": "/static/js/2.7599c84a.chunk.js.map",
+    "static/js/3.63fb59fc.chunk.js": "/static/js/3.63fb59fc.chunk.js",
+    "static/js/3.63fb59fc.chunk.js.map": "/static/js/3.63fb59fc.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.04e16b69.chunk.css.map": "/static/css/main.04e16b69.chunk.css.map",
+    "static/js/2.7599c84a.chunk.js.LICENSE.txt": "/static/js/2.7599c84a.chunk.js.LICENSE.txt",
+    "static/media/devbur.b2d7e06b.jpeg": "/static/media/devbur.b2d7e06b.jpeg",
+    "static/media/instagramicon.75e0546a.png": "/static/media/instagramicon.75e0546a.png",
+    "static/media/internetlogo.35679162.png": "/static/media/internetlogo.35679162.png",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
+    "static/media/srmlogo.ed35c203.png": "/static/media/srmlogo.ed35c203.png",
+    "static/media/thoughtworkslogo.937fd578.jpg": "/static/media/thoughtworkslogo.937fd578.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab85eab3.js",
+    "static/js/2.7599c84a.chunk.js",
+    "static/css/main.04e16b69.chunk.css",
+    "static/js/main.a4322a06.chunk.js"
+  ]
+}
