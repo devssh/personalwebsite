@@ -7,6 +7,8 @@ import twlogo from './thoughtworkslogo.jpg';
 import srmlogo from './srmlogo.png';
 import internetlogo from './internetlogo.png';
 import profilepic from './devbur.jpeg';
+import soundcloudlogo from './soundcloudlogo.png';
+import mediumlogo from './mediumlogo.png';
 import './App.css';
 
 function App() {
@@ -17,7 +19,11 @@ function App() {
 	  <img src={profilepic} className="profile-pic" alt="profile pic" />
 	</div>
 	<div className="row">
-	  <img src={logo} className="icon" alt="Devashish" />
+          <a className="App-link"
+          href="https://en.wikipedia.org/wiki/Pareto_efficiency"
+          target="_blank" rel="noopener noreferrer">
+	    <img src={logo} className="icon" alt="Devashish" />
+          </a>
         
 	<div className="bold">
           Devashish Sood
@@ -54,11 +60,28 @@ function App() {
           target="_blank" rel="noopener noreferrer">
             <img src={instagramlogo} className="icon" alt="Instagram" />
           </a>
-	</div>
+
+          <a className="App-link"
+          href="https://www.soundcloud.com/devssh"
+          target="_blank" rel="noopener noreferrer">
+            <img src={soundcloudlogo} className="icon" alt="SoundCloud" />
+          </a>
+       
+          <a className="App-link"
+          href="https://www.medium.com/@devasood"
+          target="_blank" rel="noopener noreferrer">
+            <img src={mediumlogo} className="icon" alt="Medium" />
+          </a>
+         </div>
 
 	<div>
 	  <div className="row">
-            <div><img src={logo} className="App-logo" alt="Entrepreneur" />
+            <div>
+             <a className="App-link"
+             href="https://en.wikipedia.org/wiki/Entrepreneurship"
+             target="_blank" rel="noopener noreferrer">
+               <img src={logo} className="App-logo" alt="Entrepreneur" />
+             </a>
 	    </div><div className="bold">Entrepreneur
 	    </div>
 	  </div>
